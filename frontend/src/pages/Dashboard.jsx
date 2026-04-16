@@ -8,7 +8,7 @@ import UpcomingContests from '@/components/dashboard/UpcomingContests'
 import RatingChart from '@/components/dashboard/RatingChart'
 import RecentSubmissions from '@/components/dashboard/RecentSubmissions'
 import SubmissionModal from '@/components/dashboard/SubmissionModal'
-import ProgressShowcase from '@/components/ProgressShowCase'
+import ProgressShowcase from '@/components/ProgressShowcase'
 import ActivityHeatmap from '@/components/ActivityHeatMap'
 
 const Dashboard = () => {
