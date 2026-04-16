@@ -5,7 +5,7 @@ import { getProfile }  from '@/store/authSlice';
 
 import MainLayout      from '@/layouts/MainLayout';
 import ProtectedRoute  from '@/components/ProtectedRoute';
-import index           from '@/pages/index';
+import Index           from '@/pages/index';
 import SignIn          from '@/pages/SignIn';
 import SignUp          from '@/pages/SignUp';
 import Problem         from '@/pages/Problem';
